@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titre": "Découvrir le développement web en 2026",
+        "slug": "decouvrir-le-developpement-web-2026",
+        "contenu": "Le paysage du développement web a énormément évolué cette année. Entre l'omniprésence de l'IA et les nouveaux frameworks, voici un tour d'horizon des compétences à acquérir.",
+        "date_publication": "2026-05-18T14:30:00Z",
+        "tags": [
+            "WebDev",
+            "Technologie",
+            "Avenir"
+        ],
+        "likes": 142,
+        "auteur": {
+            "nom": "Dupont",
+            "prenom": "Jean",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jean"
+        }
+    },
+    {
+        "id": 2,
+        "titre": "Pourquoi le clean code va vous sauver la vie",
+        "slug": "pourquoi-le-clean-code-sauve-la-vie",
+        "contenu": "Écrire du code qui fonctionne, c'est bien. Écrire du code que vos collègues peuvent comprendre dans six mois, c'est mieux. Parlons des bonnes pratiques de refactoring.",
+        "date_publication": "2026-05-15T09:15:00Z",
+        "tags": [
+            "Programmation",
+            "CleanCode",
+            "Productivite"
+        ],
+        "likes": 98,
+        "auteur": {
+            "nom": "Martin",
+            "prenom": "Sophie",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie"
+        }
+    },
+    {
+        "id": 3,
+        "titre": "Top 5 des outils CSS indispensables",
+        "slug": "top-5-outils-css-indispensables",
+        "contenu": "Le CSS moderne est devenu incroyablement puissant. Des conteneurs de requêtes aux fonctions de couleur avancées, découvrez les outils qui simplifient votre flux de travail.",
+        "date_publication": "2026-05-12T11:00:00Z",
+        "tags": [
+            "CSS",
+            "Design",
+            "Frontend"
+        ],
+        "likes": 215,
+        "auteur": {
+            "nom": "Durand",
+            "prenom": "Lucas",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lucas"
+        }
+    },
+    {
+        "id": 4,
+        "titre": "Introduction aux bases de données NoSQL",
+        "slug": "introduction-bases-de-donnees-nosql",
+        "contenu": "Quand faut-il abandonner le SQL au profit du NoSQL ? Nous analysons les cas d'usage idéaux pour MongoDB, Redis et les bases de données orientées graphes.",
+        "date_publication": "2026-05-10T16:45:00Z",
+        "tags": [
+            "Database",
+            "NoSQL",
+            "Backend"
+        ],
+        "likes": 76,
+        "auteur": {
+            "nom": "Dupont",
+            "prenom": "Jean",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jean"
+        }
+    },
+    {
+        "id": 5,
+        "titre": "Comment gérer le stress en télétravail",
+        "slug": "comment-gerer-le-stress-teletravail",
+        "contenu": "Travailler de chez soi offre une grande liberté, mais la frontière entre vie pro et vie perso peut vite devenir floue. Voici 3 routines simples pour déconnecter.",
+        "date_publication": "2026-05-07T08:00:00Z",
+        "tags": [
+            "Teletravail",
+            "BienEtre",
+            "Conseils"
+        ],
+        "likes": 310,
+        "auteur": {
+            "nom": "Martin",
+            "prenom": "Sophie",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie"
+        }
+    },
+    {
+        "id": 6,
+        "titre": "Maîtriser les API REST et GraphQL",
+        "slug": "maitriser-les-api-rest-graphql",
+        "contenu": "Faut-il systématiquement choisir GraphQL pour vos nouveaux projets ? Ce guide compare les performances, la flexibilité et la mise en cache des deux technologies.",
+        "date_publication": "2026-05-04T13:20:00Z",
+        "tags": [
+            "API",
+            "GraphQL",
+            "WebDev"
+        ],
+        "likes": 189,
+        "auteur": {
+            "nom": "Durand",
+            "prenom": "Lucas",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lucas"
+        }
+    },
+    {
+        "id": 7,
+        "titre": "Les bases de la sécurité pour les applications web",
+        "slug": "bases-securite-applications-web",
+        "contenu": "Failles XSS, injections SQL, CSRF... Découvrez les vulnérabilités les plus courantes et comment protéger efficacement votre code et les données de vos utilisateurs.",
+        "date_publication": "2026-05-01T10:00:00Z",
+        "tags": [
+            "Securite",
+            "Cyber",
+            "WebDev"
+        ],
+        "likes": 154,
+        "auteur": {
+            "nom": "Dupont",
+            "prenom": "Jean",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jean"
+        }
+    },
+    {
+        "id": 8,
+        "titre": "Pourquoi j'ai migré de React à Vue (et vice versa)",
+        "slug": "pourquoi-migre-react-vue-vice-versa",
+        "contenu": "Un retour d'expérience honnête sur l'utilisation de ces deux géants du frontend en production, basé sur trois projets d'envergure différente.",
+        "date_publication": "2026-04-28T15:30:00Z",
+        "tags": [
+            "React",
+            "VueJS",
+            "Frontend"
+        ],
+        "likes": 245,
+        "auteur": {
+            "nom": "Martin",
+            "prenom": "Sophie",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie"
+        }
+    },
+    {
+        "id": 9,
+        "titre": "Le guide ultime du Markdown",
+        "slug": "le-guide-ultime-du-markdown",
+        "contenu": "Que ce soit pour documenter votre projet sur GitHub ou rédiger vos articles de blog, le Markdown est un incontournable. Apprenez à le maîtriser en 5 minutes.",
+        "date_publication": "2026-04-25T09:00:00Z",
+        "tags": [
+            "Markdown",
+            "Documentation",
+            "Outils"
+        ],
+        "likes": 88,
+        "auteur": {
+            "nom": "Durand",
+            "prenom": "Lucas",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lucas"
+        }
+    },
+    {
+        "id": 10,
+        "titre": "Optimiser les performances de son site mobile",
+        "slug": "optimiser-performances-site-mobile",
+        "contenu": "Chaque seconde de chargement en trop vous fait perdre des utilisateurs. Découvrez notre checklist pour optimiser vos images, réduire vos scripts et améliorer vos Core Web Vitals.",
+        "date_publication": "2026-04-22T14:10:00Z",
+        "tags": [
+            "Performance",
+            "Mobile",
+            "SEO"
+        ],
+        "likes": 173,
+        "auteur": {
+            "nom": "Martin",
+            "prenom": "Sophie",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie"
+        }
+    }
+]
