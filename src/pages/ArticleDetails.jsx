@@ -18,10 +18,14 @@ export default function ArticleDetails() {
         getPost()
     }, [])
     return (
-        <div>
-            <h2 className="text-3xl">{post.titre}</h2>
-            <p>{post.contenu}</p>
-            {post.tags && post.tags.map(tag => <span className="badge badge-accent m-2">{tag}</span>)}
+        <div className="flex justify-between p-5">
+            <div>
+                <h2 className="text-3xl">{post.titre}</h2>
+                <p>{post.contenu}</p>
+                <h3> Auteur: {post.auteur.nom} {post.auteur.prenom}</h3>
+                {post.tags && post.tags.map(tag => <span className="badge badge-accent m-2">{tag}</span>)}
+
+            </div>
             <img src={post.auteur && post.auteur.avatar} width={300} alt="" />
             <Link to={'/'} className="btn btn-primary p-5">Retour</Link>
             
